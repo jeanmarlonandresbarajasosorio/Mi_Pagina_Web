@@ -2,7 +2,7 @@
    --font-color-1: #eee;
    --color-gradient-1: #376e4014;
    --color-gradient-2: #071917;
-   --banner-1: url(../storade/img/Rectangle 1.png);
+   --banner-1: url(/storade/img/Rectangle1.png);
 }
 @font-face {
    font-family: "Montserrat-SemiBold";
